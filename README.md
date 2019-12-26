@@ -11,3 +11,6 @@ The purpose of this project is to be able to use local crop databases across the
 
 The used dataset is available on kaggle.
 link : https://www.kaggle.com/emmarex/plantdisease
+
+
+In the future I will be creating an app using flutter
